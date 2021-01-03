@@ -1,4 +1,4 @@
-# learn_numpy เรียนรู้การใช้งาน numpy เบื้องต้น
+# เรียนรู้การใช้งาน numpy เบื้องต้น
 <table border="0" class="dataframe">
   <thead>
     <tr style="text-align: right;">
